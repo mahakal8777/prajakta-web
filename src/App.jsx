@@ -82,9 +82,9 @@ export default function App() {
               I focus on building strong fundamentals, practical problem-solving skills, and fostering a love for learning in every student.
             </p>
           </div>
-          <div className="lg:w-1/2 w-full flex justify-center">
+          <div className="lg:w-1/2 w-full h-[400px] flex justify-center">
             <img
-              src="https://drive.google.com/file/d/1aJ18-rjIBX8n79OzZHLfFv87jkxxi0su/view?usp=drivesdk"
+              src="public\img.jpg"
               alt="Teacher"
               className="rounded-2xl shadow-lg max-w-[300px] sm:max-w-[400px] w-full h-auto object-cover"
             />
