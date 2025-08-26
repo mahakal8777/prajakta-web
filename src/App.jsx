@@ -84,7 +84,7 @@ export default function App() {
           </div>
           <div className="lg:w-1/2 w-full h-[400px] flex justify-center">
             <img
-              src="public\img.jpg"
+              src="src\assets\img.jpg"
               alt="Teacher"
               className="rounded-2xl shadow-lg max-w-[300px] sm:max-w-[400px] w-full h-auto object-cover"
             />
