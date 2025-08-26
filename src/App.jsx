@@ -84,7 +84,7 @@ export default function App() {
           </div>
           <div className="lg:w-1/2 w-full flex justify-center">
             <img
-              src="/img.jpg"
+              src="https://drive.google.com/file/d/1aJ18-rjIBX8n79OzZHLfFv87jkxxi0su/view?usp=drivesdk"
               alt="Teacher"
               className="rounded-2xl shadow-lg max-w-[300px] sm:max-w-[400px] w-full h-auto object-cover"
             />
