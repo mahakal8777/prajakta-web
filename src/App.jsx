@@ -20,7 +20,7 @@ export default function App() {
       {/* Navbar */}
       <nav className="fixed top-0 left-0 w-full z-50 bg-white/80 backdrop-blur shadow-md">
         <div className="max-w-6xl mx-auto flex justify-between items-center px-4 sm:px-6 py-4">
-          <div className="text-xl sm:text-2xl font-bold text-indigo-600">BUGGU Classes</div>
+          <div className="text-xl sm:text-2xl font-bold text-indigo-600">Prajakta Classes</div>
           {/* Desktop Menu */}
           <ul className="hidden md:flex gap-6 text-gray-700 font-medium">
             <li><a href="#hero" className="hover:text-indigo-600 transition">Home</a></li>
@@ -76,7 +76,7 @@ export default function App() {
           <div className="lg:w-1/2 space-y-6 text-center lg:text-left">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-800">About Me</h2>
             <p className="text-gray-600 text-base sm:text-lg leading-relaxed">
-              Buggu meri buggu din bhar bss soti hai
+              At Prajakta classes, we don’t just train skills — we build champions.Our philosophy is simple: Talent is nothing without hard work, focus, and the will to improve every single day.
             </p>
             <p className="text-gray-600 text-base sm:text-lg leading-relaxed">
               I focus on building strong fundamentals, practical problem-solving skills, and fostering a love for learning in every student.
@@ -141,7 +141,7 @@ export default function App() {
 
       {/* Footer */}
       <footer className="py-6 bg-white border-t border-gray-200 text-center text-gray-500 text-sm sm:text-base">
-        &copy; {new Date().getFullYear()} BUGGU Classes • All rights reserved
+        &copy; {new Date().getFullYear()} Prajakta Classes • All rights reserved
       </footer>
     </div>
   );
