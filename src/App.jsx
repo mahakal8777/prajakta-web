@@ -84,7 +84,7 @@ export default function App() {
           </div>
           <div className="lg:w-1/2 w-full h-[400px] flex justify-center">
             <img
-              src="src\assets\img.jpg"
+              src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2FGhaziabad%2FSsc-Institutes-in-Govindpuram%2Fnct-11265823&psig=AOvVaw34RTXVN-U8Lstpw1wV2YON&ust=1760194203084000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPjY6b7wmZADFQAAAAAdAAAAABAf"
               alt="Teacher"
               className="rounded-2xl shadow-lg max-w-[300px] sm:max-w-[400px] w-full h-auto object-cover"
             />
